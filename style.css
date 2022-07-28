@@ -14,7 +14,7 @@ h1{
 }
 #Games{
     width: 100%;
-    height: 800px;
+    height: 450px;
     background-color: palegreen;
 }
 img{
@@ -27,4 +27,17 @@ img:hover{
     width: 100%;
     height: 800px;
     background-color: lightcyan;
+}
+#Bhavya{
+    background-color: palegreen;
+}
+#Bhavya img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:white;
+    font-size:20px;
 }
